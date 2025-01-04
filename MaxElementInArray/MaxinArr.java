@@ -24,7 +24,7 @@ public class MaxinArr {
 
     public static void main(String[] args) {
         int arr[] = { 10, 60, 5, 6, 9 };
-        // MaxinArr max = new MaxinArr();
+      
         printArrElements(arr);
         System.out.println("The max element from above array element is ");
        findMax(arr);
